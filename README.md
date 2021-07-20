@@ -1,16 +1,13 @@
-# rivenaimation
+# Flutter RiveAnimationController
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+More information can be found at: https://prasaddev.com/
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+![Simulator Screen Recording - iPhone 12 Pro - 2021-07-20 at 20 42 33](https://user-images.githubusercontent.com/34993717/126328904-d7a7b687-7986-49e3-9f26-5937aaed126d.gif)
